@@ -2,18 +2,18 @@
 
 :root {
   /* Colors */
-  --color-surface: #fbf9f9;
-  --color-surface-dim: #dbdad9;
-  --color-surface-bright: #fbf9f9;
+  --color-surface: #eae0d5;
+  --color-surface-dim: #d1c5b8;
+  --color-surface-bright: #f4ece2;
   --color-on-surface: #1b1c1c;
   --color-on-surface-variant: #454843;
   --color-primary: #5e5f5c;
   --color-on-primary: #ffffff;
-  --color-primary-container: #fdfcf8;
+  --color-primary-container: #e0d5c8;
   --color-secondary: #613d59; /* Plum from logo */
   --color-on-secondary: #ffffff;
   --color-secondary-container: #8a5a7f;
-  --color-background: #fbf9f9;
+  --color-background: #eae0d5;
   --color-on-background: #1b1c1c;
   
   /* Typography */

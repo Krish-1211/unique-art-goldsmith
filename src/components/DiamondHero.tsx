@@ -35,7 +35,7 @@ export default function DiamondHero() {
           left: 0, 
           width: '100%', 
           height: '100%', 
-          background: 'linear-gradient(to right, rgba(253, 252, 248, 0.95) 0%, rgba(253, 252, 248, 0.4) 40%, rgba(253, 252, 248, 0) 100%), linear-gradient(to bottom, rgba(253, 252, 248, 0.9) 0%, rgba(253, 252, 248, 0) 20%)',
+          background: 'linear-gradient(to right, rgba(234, 224, 213, 0.95) 0%, rgba(234, 224, 213, 0.4) 40%, rgba(234, 224, 213, 0) 100%), linear-gradient(to bottom, rgba(234, 224, 213, 0.9) 0%, rgba(234, 224, 213, 0) 20%)',
           zIndex: 2 
         }} 
       />

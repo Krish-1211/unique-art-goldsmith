@@ -27,7 +27,7 @@ export default function MobileHero() {
           left: 0, 
           width: '100%', 
           height: '100%', 
-          background: 'linear-gradient(to bottom, rgba(253, 252, 248, 0.4), var(--color-surface))',
+          background: 'linear-gradient(to bottom, rgba(234, 224, 213, 0.4), var(--color-surface))',
           zIndex: 2 
         }} 
       />

@@ -83,7 +83,7 @@ export default function Gallery() {
             style={{
               position: 'fixed',
               top: 0, left: 0, right: 0, bottom: 0,
-              backgroundColor: 'rgba(253, 252, 248, 0.95)',
+              backgroundColor: 'rgba(234, 224, 213, 0.95)',
               zIndex: 100,
               display: 'flex',
               justifyContent: 'center',
